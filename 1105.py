@@ -4,3 +4,6 @@ print('infodocs')
 a = 45
 print (2+a)
 print (a % 10)
+
+#fortest
+print ('GGMU1305')
